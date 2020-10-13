@@ -21,4 +21,4 @@ nothing
 ```
 
 ## Credits
-This is created by [Muhammad Wasif](https://muhammadwasif.github.io/). Don't forget to give it a start 🎃
+This is created by [Muhammad Wasif](https://muhammadwasif.github.io/).
